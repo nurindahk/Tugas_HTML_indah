@@ -1,0 +1,37 @@
+html {
+	background:#dadada;
+}
+body{
+	background:yellow;
+	margin:auto;
+	width:760px;
+}
+
+#header{
+	width: 740px;
+    padding: 10px;
+    background:#00b359;
+}
+#navigation{
+	width: 740px;
+    padding: 10px;
+    background:#00cc66;
+}
+#main{
+	width: 370px;
+	float:left;
+    padding: 10px;
+    background:lightgreen;
+}
+#sidebar {
+	width:370px;
+	float:right;
+    padding: 10;
+    background: #yellow;
+}
+#footer{
+	width: 740px;
+	clear:both;
+    padding:10px;
+    background:#ffcccc;
+}
